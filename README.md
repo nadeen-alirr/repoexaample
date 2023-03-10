@@ -1,2 +1,2 @@
 # repoexaample
-![](/repoexaample/test.jpg) 
+![](./test.jpg) 
